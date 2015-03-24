@@ -23,7 +23,7 @@
         "title": "Reklame 4",
         "image": "http://api.androidhive.info/json/movies/4.jpg",
         "rating": 8.4,
-        "releaseYear": "1,
+        "releaseYear": 1,
         "genre": ["Action", "Sci-Fi", "Thriller"]
     },
     {
