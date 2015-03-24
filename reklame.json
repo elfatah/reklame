@@ -44,20 +44,20 @@
         "title": "Reklame 7",
         "image": "http://api.androidhive.info/json/movies/7.jpg",
         "rating": 7.3,
-        "releaseYear": 3,
+        "releaseYear": 2,
         "genre": ["Action", "Adventure", "Fantasy"]
     },
     {
         "title": "Reklame 8",
         "image": "http://api.androidhive.info/json/movies/8.jpg",
         "rating": 7.9,
-        "releaseYear": 3,
+        "releaseYear": 2,
         "genre": ["Action", "Drama", "Sci-Fi"]
     },
     {
         "title": "Reklame 9",
         "image": "http://api.androidhive.info/json/movies/9.jpg",
         "rating": 8.3,
-        "releaseYear": 3,
+        "releaseYear": 2,
         "genre": ["Animation", "Comedy", "Family"]
     }]
